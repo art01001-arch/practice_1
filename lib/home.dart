@@ -20,6 +20,7 @@ class Homepage extends StatelessWidget {
         backgroundColor: Colors.white,
         elevation: 0.0,
         centerTitle: true,
+
         leading: GestureDetector(
           onTap: () {},
           child: Container(
